@@ -3,7 +3,7 @@
 ## Shortlisted for my interests
 
 ### Dataset
-- Multi-Modal Lidar Dataset for Benchmarking General-Purpose Localization and Mapping Algorithms
+- Multi-Modal Lidar Dataset for Benchmarking General-Purpose Localization and Mapping Algorithms [**Read**]
 ### Visual Odometry / Visual SLAM / SFM
 - Scale-Aware Direct Monocular Odometry
 - AFT-VO: Asynchronous Fusion Transformers for Multi-View Visual Odometry Estimation

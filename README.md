@@ -30,7 +30,7 @@
 ### LiDAR odometry / LiDAR SLAM
 - Efficient 2D Graph SLAM for Sparse Sensing
 ### LiDAR localization / LiDAR place recognition
-- Are We Ready for Radar to Replace Lidar in All-Weather Mapping and Localization?
+- Are We Ready for Radar to Replace Lidar in All-Weather Mapping and Localization? [**Read**]
 ### 3D reconstruction
 - Roadside HD Map Object Reconstruction Using Monocular Camera
 - S-MKI: Incremental Dense Semantic Occupancy Reconstruction Through Multi-Entropy Kernel Inference

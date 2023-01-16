@@ -1,6 +1,6 @@
 # IROS-2022-SLAM-paper-list 
 
-## Shortlisted for my interests
+## Shortlisted for my Interests
 
 ### Dataset
 - Multi-Modal Lidar Dataset for Benchmarking General-Purpose Localization and Mapping Algorithms [**Read**]

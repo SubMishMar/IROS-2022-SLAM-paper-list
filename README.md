@@ -25,7 +25,7 @@
 - LiDAR-Aided Visual-Inertial Localization with Semantic Maps
 - Pose Refinement with Joint Optimization of Visual Points and Lines
 - Spatio-Temporal Graph Localization Networks for Image-Based Navigation
-- VMVG-Loc: Visual Localization for Autonomous Driving Using Vector Map and Voxel Grid Map
+- VMVG-Loc: Visual Localization for Autonomous Driving Using Vector Map and Voxel Grid Map [**Read**]
 - City-wide Street-to-Satellite Image Geolocalization of a Mobile Ground Agent
 ### LiDAR odometry / LiDAR SLAM
 - Efficient 2D Graph SLAM for Sparse Sensing

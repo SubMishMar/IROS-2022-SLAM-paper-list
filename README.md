@@ -15,7 +15,7 @@
 - From Timing Variations to Performance Degradation: Understanding and Mitigating the Impact of Software Execution Timing in SLAM
 - An Efficient and Accurate Solution to Camera Pose Estimation Problem from Point and Line Correspondences Based on Null Space Analysis
 ### Visual Inertial Odometry / Visual Inertial SLAM
-- Thermal Inertial SLAM for the Environments with Challenging Illumination
+- Thermal Inertial SLAM for the Environments with Challenging Illumination [**Read**]
 - P3-VINS: Tightly Coupled PPP/INS/Visual SLAM Based on Optimization Approach
 - Closed-Form Error Propagation on SEn(3) Group for Invariant EKF with Applications to VINS
 - Observability Analysis and Keyframe-Based Filtering for Visual Inertial Odometry with Full Self-Calibration (I)

@@ -45,4 +45,4 @@
 - Learning-Enhanced Adaptive Robust GNSS Navigation in Challenging Environments
 - IMU Dead-Reckoning Localization with RNN-IEKF Algorithm
 ### Etc
-- MapLite 2.0: Online HD Map Inference Using a Prior SD Map
+- MapLite 2.0: Online HD Map Inference Using a Prior SD Map [**Read**]

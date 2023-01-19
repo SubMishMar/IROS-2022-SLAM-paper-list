@@ -32,7 +32,7 @@
 ### LiDAR localization / LiDAR place recognition
 - Are We Ready for Radar to Replace Lidar in All-Weather Mapping and Localization? [**Read**]
 ### 3D reconstruction
-- Roadside HD Map Object Reconstruction Using Monocular Camera
+- Roadside HD Map Object Reconstruction Using Monocular Camera [**Read**]
 - S-MKI: Incremental Dense Semantic Occupancy Reconstruction Through Multi-Entropy Kernel Inference
 ### Sensor Fusion
 - Multi-Camera-LiDAR Auto-Calibration by Joint Structure-From-Motion

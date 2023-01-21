@@ -9,7 +9,7 @@
 - AFT-VO: Asynchronous Fusion Transformers for Multi-View Visual Odometry Estimation
 - On the Coupling of Depth and Egomotion Networks for Self-Supervised Structure from Motion
 - Visual Mapping and Localization System Based on Compact Instance-Level Road Markings with Spatial Uncertainty [**Read**]
-- A New Dense Hybrid Stereo Visual Odometry Approach
+- A New Dense Hybrid Stereo Visual Odometry Approach [**Read**]
 - Simultaneous Localization and Mapping: Through the Lens of Nonlinear Optimization
 - Towards Specialized Hardware for Learning-Based Visual Odometry on the Edge
 - From Timing Variations to Performance Degradation: Understanding and Mitigating the Impact of Software Execution Timing in SLAM

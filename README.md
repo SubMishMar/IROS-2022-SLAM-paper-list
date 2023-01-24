@@ -7,7 +7,7 @@
 ### Visual Odometry / Visual SLAM / SFM
 - Scale-Aware Direct Monocular Odometry [**Read**]
 - AFT-VO: Asynchronous Fusion Transformers for Multi-View Visual Odometry Estimation
-- On the Coupling of Depth and Egomotion Networks for Self-Supervised Structure from Motion
+- On the Coupling of Depth and Egomotion Networks for Self-Supervised Structure from Motion [**Read**]
 - Visual Mapping and Localization System Based on Compact Instance-Level Road Markings with Spatial Uncertainty [**Read**]
 - A New Dense Hybrid Stereo Visual Odometry Approach [**Read**]
 - Simultaneous Localization and Mapping: Through the Lens of Nonlinear Optimization
